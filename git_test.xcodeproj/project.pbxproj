@@ -24,11 +24,11 @@
 		CE96770415373E52001F4103 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CE96770615373E52001F4103 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		CE96770815373E52001F4103 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		CE96770C15373E52001F4103 /* git_test-Info.plist */ = {isa = PBXFileReference; path = "git_test-Info.plist"; sourceTree = "<group>"; };
+		CE96770C15373E52001F4103 /* git_test-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "git_test-Info.plist"; sourceTree = "<group>"; };
 		CE96770E15373E52001F4103 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CE96771015373E52001F4103 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		CE96771215373E52001F4103 /* git_test-Prefix.pch */ = {isa = PBXFileReference; path = "git_test-Prefix.pch"; sourceTree = "<group>"; };
-		CE96771315373E52001F4103 /* git_testAppDelegate.h */ = {isa = PBXFileReference; path = git_testAppDelegate.h; sourceTree = "<group>"; };
+		CE96771215373E52001F4103 /* git_test-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "git_test-Prefix.pch"; sourceTree = "<group>"; };
+		CE96771315373E52001F4103 /* git_testAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = git_testAppDelegate.h; sourceTree = "<group>"; };
 		CE96771415373E52001F4103 /* git_testAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = git_testAppDelegate.m; sourceTree = "<group>"; };
 		CE96771715373E52001F4103 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
 		CE96771A15373E52001F4103 /* git_test.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = git_test.xcdatamodel; sourceTree = "<group>"; };
